@@ -1,0 +1,19 @@
+{
+  "name": "ducktest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercise1.js",
+  "scripts": {
+    "test1": "node exercise1.js",
+    "test2": "node exercise2.js",
+    "test3": "mocha exercise3.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.1.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "type": "module"
+}
